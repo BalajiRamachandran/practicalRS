@@ -8,8 +8,8 @@
 
 ## SLIDES OF COURSES:
 
-- [Intro to recommenders](http://www-connex.lip6.fr/~dias/RS-intro.pdf)
-- [Recent Advances & Deep Learning Architectures](http://www-connex.lip6.fr/~dias/RS-adv.pdf)
+- [Intro to recommenders](http://www-connex.lip6.fr/~dias/RSintro.pdf)
+- [Recent Advances & Deep Learning Architectures](http://www-connex.lip6.fr/~dias/RSadv.pdf)
 
 ## Instructions to get started (ON LINUX)
 
