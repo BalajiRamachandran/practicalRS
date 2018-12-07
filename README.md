@@ -18,9 +18,9 @@
 - Extract download file
 - (Manually) download files listed in "dataset/source" file:
 
- - [dataset 1](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+  - [dataset 1](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 )
- - [dataset 2](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_Instant_Video_5.json.gz)
+   - [dataset 2](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_Instant_Video_5.json.gz)
 ```
 http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_Instant_Video_5.json.gz
