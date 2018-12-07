@@ -1,5 +1,11 @@
 # practicalRS
 
+## DATASETS TO DOWNLOAD AND EXTRACT IN dataset/
+
+- [dataset 1](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+)
+- [dataset 2](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_Instant_Video_5.json.gz)
+
 ## SLIDES OF COURSES:
 
 - [Intro to recommenders](http://www-connex.lip6.fr/~dias/RS-intro.pdf)
